@@ -1,2 +1,11 @@
-# IanStore
-Uma especie de app store com diversos jogos e apps
+<h1> IanStore</h1>
+
+>status do projeto: Em desenvolvimento
+
+Uma especie de app store com diversos jogos e aplicativos. Criado para treinar e me familiarizar com alguns conceitos de css grid.
+
+para rodar esse site em sua maquina vc precisara de:
+
+```
+Browser com suporte as tecnologias padrão web
+```
