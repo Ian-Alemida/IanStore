@@ -10,11 +10,6 @@
     height: calc(100vh - 50px);
     gap: .3rem;
 }
-.destaques__principal{
-    background: url(../img/fortnite.jpg) center / cover no-repeat;
-    grid-column: span 3;
-    grid-row: span 2;
-}
 
 .destaques__titulo{
     background-color: rgba(0, 0, 0, .5);
@@ -25,23 +20,21 @@
     font-size: 1.2rem;
 }
 
+.destaques__principal{
+    background: url(../img/fortnite.jpg) center / cover no-repeat;
+    grid-column: span 3;
+    grid-row: span 2;
+}
+
+
 .destaques__secundario:nth-child(2){
-    background-image: url(../img/pubg.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background: url(../img/pubg.jpg) center / cover no-repeat;
 }
 .destaques__secundario:nth-child(3){
-    background-image: url(../img/slack.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background: url(../img/slack.png) center / cover no-repeat;
 }
 .destaques__secundario:nth-child(4){
-    background-image: url(../img/whatsapp.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background: url(../img/whatsapp.png) center / cover no-repeat;
     grid-column: 4 / 4;
     grid-row: 3 / 3;
 }
