@@ -1,6 +1,6 @@
 <h1> IanStore</h1>
 
->status do projeto: Em desenvolvimento
+>status do projeto: Concluido
 
 Uma especie de app store com diversos jogos e aplicativos. Criado para treinar e me familiarizar com alguns conceitos de css grid.
 
